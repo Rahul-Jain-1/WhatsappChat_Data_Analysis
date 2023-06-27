@@ -5,6 +5,5 @@ seaborn
 urlextract
 wordcloud
 emoji
-re
 scikit_learn
 streamlit
